@@ -64,4 +64,6 @@ Effective communication is key when resolving tickets. It’s essential to keep 
 </p>
 <br />
 
+<h1> Key Takeaaways</h1>
 
+The way tickets are managed can vary depending on the work environment. Some places might set a quota for how many tickets need to be resolved within a specific timeframe, and prioritizing tickets will depend on the urgency of each situation. By building osTicket from scratch, I gained valuable insights into ticket management and how it functions in an IT role.
